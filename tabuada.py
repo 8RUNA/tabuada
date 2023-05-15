@@ -12,8 +12,8 @@ n10 = n * 10
 
 
 print("A tabuada é:")
-print('-' *12) # para dar linha
-print ("{} x {:2} = {}".format(n, 1, n1))  # :2 = dar 2 espaços
+print('-' *12) 
+print ("{} x {:2} = {}".format(n, 1, n1))  
 print ("{} x {:2} = {}".format(n, 2, n2))
 print ("{} x {:2} = {}".format(n, 3, n3))
 print ("{} x {:2} = {}".format(n, 4, n4))
@@ -23,4 +23,4 @@ print ("{} x {:2} = {}".format(n, 7, n7))
 print ("{} x {:2} = {}".format(n, 8, n8))
 print ("{} x {:2} = {}".format(n, 9, n9))
 print ("{} x {:2} = {}".format(n, 10, n10))
-print('-' *12) # para dar linha
+print('-' *12)
